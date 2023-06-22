@@ -1,1 +1,20 @@
-
+from pandas_datareader import data as pdr
+from ta.trend import MACD
+from ta.momentum import StochasticOscillator
+import datetime as dt 
+import plotly
+import plotly.graph_objs as go 
+import numpy as np
+import pandas as pd
+import matplotlib as mpl
+import dash
+import dash_html_components as html
+import plotly.graph_objects as go
+import dash_core_components as dcc
+import plotly.express as px
+from dash.dependencies import Input, Output
+from jupyter_dash import JupyterDash
+import dash_bootstrap_components as dbc 
+from dash import Dash, html
+import base64
+from PIL import Image
