@@ -22,4 +22,3 @@ The GUI is to be deployed by sharing it to a given server using Dash Enterprise 
 
 ## DEMO
 For pictures of the MVP, please find the .png images in the repository. 
-For a Video Presentation of the working MVP and its demonstration, please also find the video file in the repository.
