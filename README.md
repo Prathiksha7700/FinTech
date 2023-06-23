@@ -21,4 +21,4 @@ Tab3: The final tab serves as a data query functionality. It allows the user to 
 The GUI is to be deployed by sharing it to a given server using Dash Enterprise Deployment software. After installing this product, the Dash Enterprise platform comes with various tools for a complete Analytical App Stack. Using its authentication middleware, the end users can be connected to the app with identity verification. Furthermore, active license seats are required for users to make, access, and manage the apps.
 
 ## DEMO
-For pictures of the MVP, please find them in the images folder.
+For pictures of the MVP, please find the .png images in the repository.
